@@ -5,6 +5,13 @@ layout: default
 Some text here
 
 
+<details markdown=block>
+<summary markdown=span>A *Summary*</summary>
+These are the **details** for this item.
+</details>
+
+
+
 {% assign types = site.data.publications | map: 'type' | uniq %}
 
 {% for type in types %}
