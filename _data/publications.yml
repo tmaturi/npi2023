@@ -1,0 +1,65 @@
+- title: Example Publication 1
+  authors:
+    - John Doe
+    - Jane Smith
+  year: 2022
+  conference: Proceedings of Example Conference
+  link: http://example.com/paper1.pdf
+  pdf: http://example.com/paper1.pdf
+  code: http://example.com/code1.R
+  type: Article 
+
+- title: Example Publication 2
+  authors:
+    - John Doe
+    - Jane Smith
+  year: 2022
+  conference: Proceedings of Another Conference
+  link: http://example.com/paper2.pdf
+  pdf: http://example.com/paper2.pdf
+  code: http://example.com/code2.R
+  type: Proceedings
+
+- title: Example Publication 3
+  authors:
+    - John Doe
+    - Jane Smith
+  year: 2018
+  conference: Proceedings of Third Conference
+  link: http://example.com/paper3.pdf
+  pdf: http://example.com/paper3.pdf
+  code: http://example.com/code3.R
+  type: Proceedings
+
+- title: Example Publication 4
+  authors:
+    - John Doe
+    - Jane Smith
+  year: 2017
+  conference: Proceedings of Fourth Conference
+  link: http://example.com/paper4.pdf
+  pdf: http://example.com/paper4.pdf
+  code: http://example.com/code4.R
+  type: Article
+
+- title: Example Publication 5
+  authors:
+    - John Doe
+    - Jane Smith
+  year: 2016
+  conference: Proceedings of Fifth Conference
+  link: http://example.com/paper5.pdf
+  pdf: http://example.com/paper5.pdf
+  code: http://example.com/code5.R
+  type: Article
+
+- title: Example Publication 6
+  authors:
+    - John Doe
+    - Jane Smith
+  year: 2014
+  conference: Proceedings of Sixth Conference
+  link: http://example.com/paper6.pdf
+  pdf: http://example.com/paper6.pdf
+  code: http://example.com/code6.R
+  type: Article
