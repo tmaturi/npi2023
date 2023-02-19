@@ -4,6 +4,11 @@ layout: default
 
 Some text here. Not sure if this is working
 
+{% capture details %}
+DETAILS
+{% endcapture %}
+{% capture summary %}SUMMARY{% endcapture %}{% include details.html %}
+
 
 <details markdown=block>
 <summary markdown=span>A *Summary*</summary>
